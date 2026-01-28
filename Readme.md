@@ -3,7 +3,7 @@ vcs is version control system, it also has some project management functionality
 vcs commands:
 open - open project
 list - list avalible projects
-add  - add new prokect to list, if without vcs, add it
+add  - add new project to list, if without vcs, add it
 make - create new project and cd into folder
 get  - make a copy of a project
 put  - put new files into project
